@@ -5,22 +5,22 @@ public class Chuong2
 {
     public static void Run()
     {
-        Console.WriteLine("=== CHƯƠNG 2 - BÀI 1 ===");
+        Console.WriteLine(" CHƯƠNG 2 - BÀI 1 ");
         Bai1();
 
-        Console.WriteLine("\n=== CHƯƠNG 2 - BÀI 2 ===");
+        Console.WriteLine("\n CHƯƠNG 2 - BÀI 2 ");
         Bai2();
 
-        Console.WriteLine("\n=== CHƯƠNG 2 - BÀI 3 ===");
+        Console.WriteLine("\n CHƯƠNG 2 - BÀI 3 ");
         Bai3();
 
-        Console.WriteLine("\n=== CHƯƠNG 2 - BÀI 4 ===");
+        Console.WriteLine("\n CHƯƠNG 2 - BÀI 4 ");
         Bai4();
 
-        Console.WriteLine("\n=== CHƯƠNG 2 - BÀI 5 ===");
+        Console.WriteLine("\n CHƯƠNG 2 - BÀI 5 ");
         Bai5();
 
-        Console.WriteLine("\n=== CHƯƠNG 2 - BÀI 6 ===");
+        Console.WriteLine("\n CHƯƠNG 2 - BÀI 6 ");
         Bai6();
     }
 

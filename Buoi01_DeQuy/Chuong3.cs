@@ -4,28 +4,28 @@ public class Chuong3
 {
     public static void Run()
     {
-        Console.WriteLine("=== CHƯƠNG 3 - BÀI 1 ===");
+        Console.WriteLine(" CHƯƠNG 3 - BÀI 1 ");
         Bai1();
 
-        Console.WriteLine("\n=== CHƯƠNG 3 - BÀI 2 ===");
+        Console.WriteLine("\n CHƯƠNG 3 - BÀI 2 ");
         Bai2();
 
-        Console.WriteLine("\n=== CHƯƠNG 3 - BÀI 3 ===");
+        Console.WriteLine("\n CHƯƠNG 3 - BÀI 3 ");
         Bai3();
 
-        Console.WriteLine("\n=== CHƯƠNG 3 - BÀI 4 ===");
+        Console.WriteLine("\n=== CHƯƠNG 3 - BÀI 4 ");
         Bai4();
 
-        Console.WriteLine("\n=== CHƯƠNG 3 - BÀI 5 ===");
+        Console.WriteLine("\n CHƯƠNG 3 - BÀI 5 ");
         Bai5();
 
-        Console.WriteLine("\n=== CHƯƠNG 3 - BÀI 6 ===");
+        Console.WriteLine("\n CHƯƠNG 3 - BÀI 6 ");
         Bai6();
 
-        Console.WriteLine("\n=== CHƯƠNG 3 - BÀI 7 ===");
+        Console.WriteLine("\n CHƯƠNG 3 - BÀI 7 ");
         Bai7();
 
-        Console.WriteLine("\n=== CHƯƠNG 3 - BÀI 8 ===");
+        Console.WriteLine("\n CHƯƠNG 3 - BÀI 8 ");
         Bai8();
     }
 

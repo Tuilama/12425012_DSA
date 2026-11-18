@@ -26,15 +26,15 @@ class Program
             switch (chon)
             {
                 case 1:
-                    Console.WriteLine("--> BẮT ĐẦU CHẠY CHƯƠNG 1 <--");
+                    Console.WriteLine(" BẮT ĐẦU CHẠY CHƯƠNG 1 ");
                     Chuong1.Run();
                     break;
                 case 2:
-                    Console.WriteLine("--> BẮT ĐẦU CHẠY CHƯƠNG 2 <--");
+                    Console.WriteLine(" BẮT ĐẦU CHẠY CHƯƠNG 2 ");
                     Chuong2.Run();
                     break;
                 case 3:
-                    Console.WriteLine("--> BẮT ĐẦU CHẠY CHƯƠNG 3 <--");
+                    Console.WriteLine(" BẮT ĐẦU CHẠY CHƯƠNG 3 ");
                     Chuong3.Run();
                     break;
                 case 0:

@@ -5,19 +5,19 @@ public class Chuong1
 {
     public static void Run()
     {
-        Console.WriteLine("=== CHƯƠNG 1 - BÀI 1 ===");
+        Console.WriteLine(" CHƯƠNG 1 - BÀI 1 ");
         Bai1();
 
-        Console.WriteLine("\n=== CHƯƠNG 1 - BÀI 2 ===");
+        Console.WriteLine("\n CHƯƠNG 1 - BÀI 2 ");
         Bai2();
 
-        Console.WriteLine("\n=== CHƯƠNG 1 - BÀI 3 ===");
+        Console.WriteLine("\n CHƯƠNG 1 - BÀI 3 ");
         Bai3();
 
-        Console.WriteLine("\n=== CHƯƠNG 1 - BÀI 4 ===");
+        Console.WriteLine("\n CHƯƠNG 1 - BÀI 4 ");
         Bai4();
 
-        Console.WriteLine("\n=== CHƯƠNG 1 - BÀI 5 ===");
+        Console.WriteLine("\n CHƯƠNG 1 - BÀI 5 ");
         Bai5();
     }
 
