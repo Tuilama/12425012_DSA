@@ -243,7 +243,7 @@ S(5) = 55
 Nhập n: 2
 S(2) = 1.5000
 
-=== CHƯƠNG 3 - BÀI 4
+ CHƯƠNG 3 - BÀI 4
 Nhập cơ sở x: 4
 Nhập số mũ n: 2
 4^2 = 16
